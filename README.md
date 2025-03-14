@@ -14,8 +14,5 @@
 - 🏓 乒乓球爱好者（积分约 1400），每周五/日下午 3:30 欢迎约球！
 
 #### 游戏
-- 喜欢 FPS（战地系列、绝地求生等）、魂类（艾尔登法环、只狼）、体育竞速（FC24、地平线系列）、开放世界（赛博朋克2077、荒野大镖客2）等多种类型的游戏
-
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+- 喜欢 FPS（战地系列、绝地求生等）、魂类（艾尔登法环、只狼）、体育竞速（FC24、地平线系列）、开放世界（赛博朋克2077、荒野大镖客2）、战争策略（钢铁雄心4）等多种类型的游戏
 
