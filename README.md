@@ -1,9 +1,9 @@
 # 你好，我是 [楚门的小世界] 👋
 
-[![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+楚门的小世界)](https://github.com/yourusername)
+[![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+楚门的小世界)](https://github.com/Truman-min-show)
 
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)](https://git.io/streak-stats)
+[![GitHub Followers](https://img.shields.io/github/followers/Truman-min-show?style=social)](https://github.com/Truman-min-show)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Truman-min-show)](https://git.io/streak-stats)
 
 ---
 
@@ -16,8 +16,8 @@
 
 ## 技能统计
 
-![我的 GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![我的 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Truman-min-show&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact)
 
 ---
 
