@@ -7,7 +7,7 @@
 ## 关于我
 
 - 🎓 同济大学计算机科学与技术专业本科生
-- 💻 熟悉 `C`、`C++`、`Python`、`Vivado`、`OpenCV`、`Vue`、`Spring Boot`、`Django`、`Streamlit` 等技术
+- 💻 熟悉 `C`、`C++`、`Python`、`Vivado`、`OpenCV`、`Pytorch`、`Vue`、`Spring Boot`、`Django`、`Streamlit` 等技术
 
 ---
 
