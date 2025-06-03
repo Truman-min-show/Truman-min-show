@@ -107,4 +107,4 @@ Richard Russell, a ground crew member, made headlines in 2018 when he took an un
 
 ---
 
-Thanks for visiting! If you’re interested in my hobbies, projects, or research directions, feel free to reach out.
+## Thanks for visiting! If you’re interested in my hobbies, projects, or research directions, feel free to reach out.
