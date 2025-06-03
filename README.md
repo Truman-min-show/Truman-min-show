@@ -53,8 +53,8 @@
 
 ## 📈 GitHub 统计
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Truman-min-show&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact&theme=dracula)
+![我的 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Truman-min-show&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact)
 
 ---
 
@@ -73,7 +73,7 @@
 ### 🎮 游戏
 
 - 喜欢 FPS（战地系列、穿越火线）、魂类（艾尔登法环、只狼）、体育竞速（FIFA 系列、极限国度、地平线系列）、开放世界（赛博朋克 2077、荒野大镖客 2）、战争策略（钢铁雄心 4）、RPG（生化危机 4 重制版）等多种类型的游戏
-- <img src="./games.jpg" alt="游戏生涯爱好表" width="60%">
+- <img src="./games.jpg" alt="游戏生涯爱好表" height="60%">
 
 ---
 
