@@ -8,7 +8,7 @@
 > —— 一位俄乌战场上的士兵
 ---
 <p align="left">
-  <img src="./photo.jpg" alt="个人照片" width="17%" style="display:inline-block; margin-right:3%">
+  <img src="./photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:5%">
   <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="70%" style="display:inline-block;">
 </p>
 
@@ -16,7 +16,7 @@
 
 ## 🧑‍🎓 教育背景与研究方向
 
-🎓 同济大学计算机科学与技术专业本科生(博零中)。
+🎓 同济大学计算机科学与技术专业本科生(博0ing)。
 
 ✍ 你可以经常在非黄金周的下午和晚上于嘉定校区的A210教室或A208教室以及嘉定图书馆4楼靠窗座位处发现我。
 
@@ -91,7 +91,7 @@
 > —— Richard Russell
 
 <p align="center">
-  <img src="./richard_russell_flight.jpg" alt="Richard Russell Sunset Flip" width="80%">
+  <img src="./richard_russell_flight.jpg" alt="Richard Russell Sunset Flip" width="40%">
 </p>
 
 理查德·拉塞尔（Richard Russell），一位地勤人员，在 2018 年驾驶一架未经授权的飞机在夕阳下完成了惊人的飞行动作，最终坠毁在 Ketron 岛。他的行为引发了人们对理想、自由和生命意义的深思，被网友称为“Sky King”。
