@@ -8,7 +8,7 @@
 
 - 🎓 同济大学计算机科学与技术专业本科生，你可以经常在非黄金周的下午和晚上于嘉定校区的A210教室或A208教室以及嘉定图书馆4楼靠窗座位处发现我
 - 💻 熟悉 `C`、`C++`、`Python`、`Vivado`、`OpenCV`、`Pytorch`、`Vue`、`Spring Boot`、`Django`、`Streamlit` 等技术
-
+![](https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 ---
 
 ## 技能统计
