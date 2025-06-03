@@ -2,10 +2,7 @@
 
 > “人生就像调试代码，逻辑不通就得打断点”  
 > “真希望也有 ctrl+z...”
-<p align="left">
-  别告诉妈妈，我在巴赫穆特...
-  <img src="./photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:5%">
-</p>
+
 
 ---
 <p align="left">
