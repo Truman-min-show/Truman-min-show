@@ -5,7 +5,7 @@
 
 ---
 
-## ✨ Hello, I'm [Truman's Little World] 👋
+## ✨ Hello, I'm [Truman-min-show] 👋
 
 > "Life is like debugging code—when the logic doesn’t work, you need to set a breakpoint."  
 > "I really wish there was a Ctrl+Z for life..."
