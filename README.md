@@ -1,11 +1,12 @@
 ## ✨你好，我是 [楚门的小世界] 👋
 
-> “我想要一场真正的冒险。”  
-> —— 新海诚《秒速五厘米》
+> “人生就像调试代码，逻辑不通就得打断点”  
+> “真希望也有 ctrl+z...”
+<p align="left">
+  别告诉妈妈，我在巴赫穆特...
+  <img src="./photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:5%">
+</p>
 
-> “我曾在巴赫穆特的废墟中弹奏吉他，  
-> 那是我第一次，也是最后一次的演出。”  
-> —— 一位俄乌战场上的士兵
 ---
 <p align="left">
   <img src="./photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:5%">
