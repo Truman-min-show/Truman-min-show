@@ -6,10 +6,9 @@
 > “我曾在巴赫穆特的废墟中弹奏吉他，  
 > 那是我第一次，也是最后一次的演出。”  
 > —— 一位俄乌战场上的士兵
-> 
 ---
 <p align="left">
-  <img src="./photo.jpg" alt="个人照片" width="11%" style="display:inline-block; margin-right:3%">
+  <img src="./photo.jpg" alt="个人照片" width="17%" style="display:inline-block; margin-right:3%">
   <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="70%" style="display:inline-block;">
 </p>
 
@@ -17,7 +16,7 @@
 
 ## 🧑‍🎓 教育背景与研究方向
 
-🎓 同济大学计算机科学与技术专业本科生。研究方向包括：
+🎓 同济大学计算机科学与技术专业本科生(博零中)。研究方向包括：
 
 - 🧠 自然语言处理（NLP）
 - 🧮 粗糙集理论
@@ -32,8 +31,6 @@
 ![C](https://img.shields.io/badge/-C-808080?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-904090?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
-![Java](https://img.shields.io/badge/-Java-7B6438?style=flat-square)
-![C#](https://img.shields.io/badge/-CSharp-409040?style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square)
 ![Vue](https://img.shields.io/badge/-Vue-409040?style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square)
@@ -47,9 +44,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat-square)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square)
-![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat-square)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square)
 
 ---
 
@@ -75,7 +69,7 @@
 ### 🎮 游戏
 
 - 喜欢 FPS（战地系列、穿越火线）、魂类（艾尔登法环、只狼）、体育竞速（FIFA 系列、极限国度、地平线系列）、开放世界（赛博朋克 2077、荒野大镖客 2）、战争策略（钢铁雄心 4）、RPG（生化危机 4 重制版）等多种类型的游戏
-- <img src="./game.jpg" alt="游戏生涯爱好表" width="60%">
+- <img src="./games.jpg" alt="游戏生涯爱好表" width="60%">
 
 ---
 
