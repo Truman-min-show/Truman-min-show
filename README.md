@@ -9,9 +9,8 @@
 > 
 ---
 <p align="left">
-  <img src="https://s2.loli.net/2025/04/26/ZoHT1Px6GSsuiyw.jpg" alt="个人照片" width="11%" style="display:inline-block; margin-right:3%">
+  <img src="./photo.jpg" alt="个人照片" width="11%" style="display:inline-block; margin-right:3%">
   <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="70%" style="display:inline-block;">
-  <img src="https://s2.loli.net/2025/05/26/b4DEXKVc1Go8gxr.png" alt="装饰图" width="18%" style="display:inline-block;">
 </p>
 
 ---
@@ -92,11 +91,7 @@
 
 > “我想尝试做一个桶滚，如果成功了，我就俯冲下去，结束这一天。”  
 > —— Richard Russell
-
-<p align="center">
-  <img src="https://example.com/richard_russell_sunset_flip.jpg" alt="Richard Russell Sunset Flip" width="80%">
-</p>
-
+![Richard Russell 飞行画面](./richard_russell_flight.jpg)
 理查德·拉塞尔（Richard Russell），一位地勤人员，在 2018 年驾驶一架未经授权的飞机在夕阳下完成了惊人的飞行动作，最终坠毁在 Ketron 岛。他的行为引发了人们对理想、自由和生命意义的深思，被网友称为“Sky King”。
 
 ---
