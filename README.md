@@ -16,9 +16,9 @@
 
 ## 🧑‍🎓 教育背景与研究方向
 
-🎓 同济大学计算机科学与技术专业本科生(博0ing)。
+🎓 同济大学计算机科学与技术专业本科生(博0ing)
 
-✍ 你可以经常在非黄金周的下午和晚上于嘉定校区的A210教室或A208教室以及嘉定图书馆4楼靠窗座位处发现我。
+✍ 你可以经常在非黄金周的下午和晚上于嘉定校区的A210教室或A208教室以及嘉定图书馆4楼靠窗座位处发现我
 
  研究方向包括：
 
@@ -47,7 +47,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat-square)
 
 ---
 
@@ -63,7 +62,9 @@
 ### 📺 动漫
 
 - 热爱日本动漫，阅番量 **300+**，每季度定期追番 **3~5** 部，佛性补番
-- <img src="./anime.jpg" alt="动漫生涯爱好表" width="60%">
+<p align="center">
+  <img src="./anime.jpg" alt="动漫生涯爱好表" width="60%">
+</p>
 
 ### ⚽ 体育运动
 
@@ -72,9 +73,11 @@
 
 ### 🎮 游戏
 
-- 喜欢 FPS（战地系列、穿越火线）、魂类（艾尔登法环、只狼）、体育竞速（FIFA 系列、极限国度、地平线系列）、开放世界（赛博朋克 2077、荒野大镖客 2）、战争策略（钢铁雄心 4）、RPG（生化危机 4 重制版）等多种类型的游戏
-- <img src="./games.jpg" alt="游戏生涯爱好表" height="60%">
+- 喜欢 FPS（战地系列、穿越火线）、魂类（艾尔登法环、只狼）、体育竞速（FIFA 系列、极限国度、地平线系列）、开放世界（赛博朋克 2077、荒野大镖客 2）、战争策略（钢铁雄心 4）、RPG（生化危机 4 重制版、巫师 3）、割草（真三国无双系列））等多种类型的游戏
 
+<p align="center">
+  <img src="./games.jpg" alt="游戏生涯爱好表" width="40%">
+</p>
 ---
 
 ## 🔗 外部链接
