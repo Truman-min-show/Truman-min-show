@@ -21,7 +21,9 @@
 
 ## 🧑‍🎓 Education and Research Interests
 
-🎓 Undergraduate in Computer Science and Technology at Tongji University (Incoming PhD student——direct admission from undergraduate studies)
+🎓 Undergraduate in Computer Science and Technology at Tongji University
+
+(Incoming PhD student——direct admission from undergraduate studies)
 
 ✍ You can often find me in the afternoons or evenings during non-holiday weeks at Room A210 or A208 in Jiading Campus, or at a window seat on the 4th floor of Library.
 
