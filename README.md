@@ -76,7 +76,7 @@ Languages and tools I'm familiar with or currently learning:
 ### ⚽ Sports
 
 - Night owl soccer fan, supporting **Barcelona** and **Argentina** (Messi is forever the GOAT).
-- Table tennis enthusiast (skill level around **1400–1500** on Kaiqiuwang), playing with the right hand, using inverted rubber on both sides of the paddle, primarily focusing on a backhand system, using a CR-CL_FL_WRB blade, 40-degree 2.1 provincial orange rubber Hurricane for forehand, and Spell M for backhand. I focus on backhand quick attacks and the first three shots. Feel free to challenge me at the Jiading Campus table tennis hall on Fridays/Saturday afternoons at 3:30 PM!
+- Table tennis enthusiast (skill level around **1400–1500** on Kaiqiuwang), playing with the right hand, using inverted rubber on both sides of the paddle, primarily focusing on a backhand system, using a CR-CL_FL_WRB blade, 40-degree 2.1 provincial orange rubber Hurricane for forehand, and Spell M for backhand. I focus on backhand quick attacks and the first three shots. Feel free to challenge me at the Jiading Campus table tennis hall on Tuesday/Friday/Weekend afternoons at 3:30  PM or 7:00 PM!
 
 ### 🎮 Gaming
 
