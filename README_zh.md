@@ -94,7 +94,7 @@
 
 ---
 
-## 🌅 致敬理查德·拉塞尔（Richard Russell）
+## 🌅 致敬理查德·罗素（Richard Russell）
 
 > “我想尝试做一个桶滚，如果成功了，我就俯冲下去，结束这一天。”  
 > —— Richard Russell
@@ -103,7 +103,7 @@
   <img src="./richard_russell_flight.jpg" alt="Richard Russell Sunset Flip" width="40%">
 </p>
 
-理查德·拉塞尔（Richard Russell），一位地勤人员，在 2018 年驾驶一架未经授权的飞机在夕阳下完成了惊人的飞行动作，最终坠毁在 Ketron 岛。他的行为引发了人们对理想、自由和生命意义的深思，被网友称为“Sky King”。
+理查德·罗素（Richard Russell），一位地勤人员，在 2018 年驾驶一架未经授权的飞机在夕阳下完成了惊人的飞行动作，最终坠毁在 Ketron 岛。他的行为引发了人们对理想、自由和生命意义的深思，被网友称为“Sky King”。
 
 ---
 
