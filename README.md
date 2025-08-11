@@ -30,9 +30,7 @@
 Research interests include:
 
 - 🧠 Natural Language Processing (NLP)
-- 🧮 Rough Set Theory
-- ⚖️ Three-Way Decision Theory
-
+- 🧮 Rough Set and Granular Computing
 ---
 
 ## 🛠️ Tech Stack
