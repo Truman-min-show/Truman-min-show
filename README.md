@@ -3,7 +3,7 @@
   <a href="README_zh.md"><img src="https://img.shields.io/badge/语言-中文-red?style=flat-square"></a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Truman-min-show&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Truman-min-show&color=DA70D6" alt="Profile Views" />
 </div>
 
 ---
