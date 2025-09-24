@@ -16,7 +16,7 @@
 
 ---
 <p align="left">
-  <img src="./photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:5%">
+  <img src="./assets/photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:5%">
   <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="70%" style="display:inline-block;">
 </p>
 
@@ -69,7 +69,7 @@
 
 - 热爱日本动漫，阅番量 **300+**，每季度定期追番 **3~5** 部，佛性补番
 <p align="center">
-  <img src="./anime.jpg" alt="动漫生涯爱好表" width="60%">
+  <img src="./assets/anime.jpg" alt="动漫生涯爱好表" width="60%">
 </p>
 
 ### ⚽ 体育运动
@@ -77,12 +77,19 @@
 - 经常熬夜看球，支持 **巴塞罗那** 和 **阿根廷**（梅西永远的 GOAT）
 - 乒乓球爱好者（水平约开球网 **1400~1500** 段位），右手横拍双反，底板维斯卡利亚 FL，正手 40 度 2.1 省橙，反手D64。主打反手快攻和前三板，每周二/五/末下午 3:30 嘉定校区乒乓球馆欢迎约球！
 
+<p align="center">
+  <img src="./assets/paddle_blade.jpg" alt="乒乓球拍底板" width="20%">
+  <img src="./assets/rubber.jpg" alt="乒乓球胶片" width="34%">
+  <img src="./assets/barca_logo.jpg" alt="巴塞罗那队徽" width="26%">
+</p>
+
+
 ### 🎮 游戏
 
 - 喜欢 FPS（战地系列、穿越火线）、魂类（艾尔登法环、只狼）、体育竞速（FIFA 系列、极限国度、地平线系列）、开放世界（赛博朋克 2077、荒野大镖客 2）、战争策略（钢铁雄心 4）、RPG（生化危机 4 重制版、巫师 3）、割草（真三国无双系列））等多种类型的游戏
 
 <p align="center">
-  <img src="./games.jpg" alt="游戏生涯爱好表" width="40%">
+  <img src="./assets/games.jpg" alt="游戏生涯爱好表" width="40%">
 </p>
 
 ---
@@ -101,7 +108,7 @@
 > —— Richard Russell
 
 <p align="center">
-  <img src="./richard_russell_flight.jpg" alt="Richard Russell Sunset Flip" width="40%">
+  <img src="./assets/richard_russell_flight.jpg" alt="Richard Russell Sunset Flip" width="40%">
 </p>
 
 理查德·罗素（Richard Russell），一位地勤人员，在 2018 年驾驶一架未经授权的飞机在夕阳下完成了惊人的飞行动作，最终坠毁在 Ketron 岛。他的行为引发了人们对理想、自由和生命意义的深思，被网友称为“Sky King”。

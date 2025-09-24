@@ -16,7 +16,7 @@
 ---
 
 <p align="left">
-  <img src="./photo.jpg" alt="Profile Picture" width="15%" style="display:inline-block; margin-right:5%">
+  <img src="./assets/photo.jpg" alt="Profile Picture" width="15%" style="display:inline-block; margin-right:5%">
   <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="70%" style="display:inline-block;">
 </p>
 
@@ -71,7 +71,7 @@ Languages and tools I'm familiar with or currently learning:
 
 - Avid anime fan with over **300** series watched, following **3–5** new series each season, and casually catching up on others.
 <p align="center">
-  <img src="./anime.jpg" alt="Anime Favorites" width="60%">
+  <img src="./assets/anime.jpg" alt="Anime Favorites" width="60%">
 </p>
 
 ### ⚽ Sports
@@ -79,12 +79,19 @@ Languages and tools I'm familiar with or currently learning:
 - Night owl soccer fan, supporting **Barcelona** and **Argentina** (Messi is forever the GOAT).
 - Table tennis enthusiast (skill level around **1400–1500** on Kaiqiuwang), playing with the right hand, using inverted rubber on both sides of the paddle, primarily focusing on a backhand system, using a VISCARIA-FL blade, 40-degree 2.1 provincial orange rubber Hurricane for forehand, and Dignics-64 for backhand. I focus on backhand quick attacks and the first three shots. Feel free to challenge me at the Jiading Campus table tennis hall on Tuesday/Friday/Weekend afternoons at 3:30  PM or 7:00 PM!
 
+<p align="center">
+  <img src="./assets/paddle_blade.jpg" alt="Table Tennis Blade" width="20%">
+  <img src="./assets/rubber.jpg" alt="Table Tennis Rubber" width="34%">
+  <img src="./assets/barca_logo.jpg" alt="FC Barcelona Logo" width="26%">
+</p>
+
+
 ### 🎮 Gaming
 
 - Enjoy a variety of games including FPS (Battlefield series, CrossFire), Souls-like (Elden Ring, Sekiro), sports/racing (FIFA series, Steep, Forza Horizon), open-world (Cyberpunk 2077, Red Dead Redemption 2), war strategy (Hearts of Iron IV), RPG (Resident Evil 4 Remake, The Witcher 3), and hack-and-slash (Dynasty Warriors series).
 
 <p align="center">
-  <img src="./games.jpg" alt="Gaming Favorites" width="40%">
+  <img src="./assets/games.jpg" alt="Gaming Favorites" width="40%">
 </p>
 
 ---
@@ -103,7 +110,7 @@ Languages and tools I'm familiar with or currently learning:
 > — Richard Russell
 
 <p align="center">
-  <img src="./richard_russell_flight.jpg" alt="Richard Russell Sunset Flip" width="40%">
+  <img src="./assets/richard_russell_flight.jpg" alt="Richard Russell Sunset Flip" width="40%">
 </p>
 
 Richard Russell, a ground crew member, made headlines in 2018 when he took an unauthorized plane for a remarkable flight, performing stunts under the sunset before crashing on Ketron Island. His actions sparked deep reflections on ideals, freedom, and the meaning of life, earning him the nickname “Sky King” among netizens.
