@@ -110,4 +110,11 @@ Richard Russell, a ground crew member, made headlines in 2018 when he took an un
 
 ---
 
+## Acknowledgement
+
+Part of this README template is adapted from my friend [Wangtk311](https://github.com/Wangtk311).  
+Special thanks for the inspiration and help.
+
+---
+
 ## Thanks for visiting! If you’re interested in my hobbies, projects, or research directions, feel free to reach out.
