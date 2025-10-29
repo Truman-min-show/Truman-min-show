@@ -10,8 +10,8 @@
 
 ## ✨ Hello, I'm [Truman-min-show] 👋
 
-> "Life is like debugging code—when the logic doesn’t work, you need to set a breakpoint."  
-> "I really wish there was a Ctrl+Z for life..."
+> "On the logarithmic axis of life, time grows ever denser as it moves on."  
+> "Thus, the meaning of life lies not in stretching time, but in amplifying experience."
 
 ---
 
@@ -28,11 +28,11 @@
 
 (Incoming PhD student——direct admission from undergraduate studies)
 
-✍ You can often find me in the afternoons or evenings during non-holiday weeks at Room A210 or A208 in Jiading Campus, or at a window seat on the 4th floor of Library.
+✍ You can often find me in the afternoons or evenings during non-holiday weeks at Room A210 or A208 in Jiading Campus, or at a window seat on the 4th or 8th floor of Library.
 
 Research interests include:
 
-- 🧠 Natural Language Processing (NLP)
+- 🧠 Natural Language Processing (Rumor Detection)
 - 🧮 Rough Set and Granular Computing
 ---
 
@@ -77,7 +77,7 @@ Languages and tools I'm familiar with or currently learning:
 ### ⚽ Sports
 
 - Night owl soccer fan, supporting **Barcelona** and **Argentina** (Messi is forever the GOAT).
-- Table tennis enthusiast (skill level around **1400–1500** on Kaiqiuwang), playing with the right hand, using inverted rubber on both sides of the paddle, primarily focusing on a backhand system, using a VISCARIA-FL blade, 40-degree 2.1 provincial orange rubber Hurricane for forehand, and Dignics-64 for backhand. I focus on backhand quick attacks and the first three shots. Feel free to challenge me at the Jiading Campus table tennis hall on Tuesday/Friday/Weekend afternoons at 3:30  PM or 7:00 PM!
+- Table tennis enthusiast (skill level around **1500** on Kaiqiuwang), playing with the right hand, using inverted rubber on both sides of the paddle, primarily focusing on a backhand system, using a VISCARIA-FL blade, 40-degree 2.1 provincial orange rubber Hurricane for forehand, and Dignics-64 for backhand. I focus on backhand quick attacks and the first three shots. Feel free to challenge me at the Jiading Campus table tennis hall on Tuesday/Friday/Weekend afternoons at 3:30  PM or 7:00 PM!
 
 <p align="center">
   <img src="./assets/paddle_blade.jpg" alt="Table Tennis Blade" width="20%">
