@@ -10,14 +10,24 @@
 
 ## ✨ Hello, I'm [Truman-min-show] 👋
 
-> "On the logarithmic axis of life, time grows ever denser as it moves on."  
-> "Thus, the meaning of life lies not in stretching time, but in amplifying experience."
+<p align="center">
+  <img src="./assets/midpoint.jpg" alt="life's midpoint is 18" width="80%"> 
+</p>
+
+<div align="center" style="margin:auto; padding:8px 0;">
+  <p align="left" style="font-size:16px; font-weight:500;  margin:4px 0;">
+    <span style="border-left:4px solid #888; padding-left:10px;">“On the logarithmic axis of life, time grows ever denser as it moves on.”</span>
+  </p>
+  <p align="right" style="font-size:16px; font-weight:500;  margin:4px 0;">
+    <span style="border-right:4px solid #888; padding-right:10px;">“——Thus, the meaning of life lies not in stretching time, but in amplifying experience.”</span>
+  </p>
+</div>
 
 ---
 
 <p align="left">
-  <img src="./assets/photo.jpg" alt="Profile Picture" width="15%" style="display:inline-block; margin-right:5%">
-  <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="70%" style="display:inline-block;">
+  <img src="./assets/photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:5%">
+  <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="78%" style="display:inline-block;">
 </p>
 
 ---
@@ -58,10 +68,13 @@ Languages and tools I'm familiar with or currently learning:
 
 ---
 
+
 ## 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Truman-min-show&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Truman-min-show&show_icons=true" alt="My GitHub Stats" width="40%"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact" alt="Top Languages" width="30%"> 
+</p>
 
 ---
 
@@ -77,7 +90,7 @@ Languages and tools I'm familiar with or currently learning:
 ### ⚽ Sports
 
 - Night owl soccer fan, supporting **Barcelona** and **Argentina** (Messi is forever the GOAT).
-- Table tennis enthusiast (skill level around **1500** on Kaiqiuwang), playing with the right hand, using inverted rubber on both sides of the paddle, primarily focusing on a backhand system, using a VISCARIA-FL blade, 40-degree 2.1 provincial orange rubber Hurricane for forehand, and Dignics-64 for backhand. I focus on backhand quick attacks and the first three shots. Feel free to challenge me at the Jiading Campus table tennis hall on Tuesday/Friday/Weekend afternoons at 3:30  PM or 7:00 PM!
+- Table tennis enthusiast (skill level around **1450~1550** on Kaiqiuwang), playing with the right hand, using inverted rubber on both sides of the paddle, primarily focusing on a backhand system, using a VISCARIA-FL blade, 40-degree 2.1 provincial orange rubber Hurricane for forehand, and Dignics-64 for backhand. I focus on backhand quick attacks and the first three shots. Feel free to challenge me at the Jiading Campus table tennis hall on Tuesday/Friday/Weekend afternoons at 3:30  PM or 7:00 PM!
 
 <p align="center">
   <img src="./assets/paddle_blade.jpg" alt="Table Tennis Blade" width="20%">

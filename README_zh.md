@@ -10,14 +10,24 @@
 
 ## ✨你好，我是 [楚门的小世界] 👋
 
-> “在人生的对数坐标上，时间越走越挤。”  
-> “于是，生命的意义不在延长时间，而在放大感受。”
+<p align="center">
+  <img src="./assets/midpoint.jpg" alt="life's midpoint is 18" width="80%"> 
+</p>
+
+<div align="center" style="margin:auto; padding:8px 0;">
+  <p align="left" style="font-size:18px; font-weight:600; letter-spacing:1px; margin:4px 0;">
+    <span style="border-left:4px solid #888; padding-left:10px;">“在人生的对数坐标上，时间越走越挤。”</span>
+  </p>
+  <p align="right" style="font-size:18px; font-weight:600; letter-spacing:1px; margin:4px 0;">
+    <span style="border-right:4px solid #888; padding-right:10px;">“——于是，生命的意义不在延长时间，而在放大感受。”</span>
+  </p>
+</div>
 
 
 ---
 <p align="left">
   <img src="./assets/photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:5%">
-  <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="70%" style="display:inline-block;">
+  <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="78%" style="display:inline-block;">
 </p>
 
 ---
@@ -58,8 +68,10 @@
 
 ## 📈 GitHub 统计
 
-![我的 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Truman-min-show&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Truman-min-show&show_icons=true" alt="My GitHub Stats" width="40%"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact" alt="Top Languages" width="30%"> 
+</p>
 
 ---
 
@@ -75,7 +87,7 @@
 ### ⚽ 体育运动
 
 - 经常熬夜看球，支持 **巴塞罗那** 和 **阿根廷**（梅西永远的 GOAT）
-- 乒乓球爱好者（水平约开球网 **1500分** 段位），右手横拍双反，底板维斯卡利亚 FL，正手 40 度 2.1 省橙，反手D64。主打反手快攻和前三板，每周二/五/末下午 3:30 嘉定校区乒乓球馆欢迎约球！
+- 乒乓球爱好者（水平约开球网 **1450~1550** 段位），右手横拍双反，底板维斯卡利亚 FL，正手 40 度 2.1 省橙，反手D64。主打反手快攻和前三板，每周二/五/末下午 3:30 嘉定校区乒乓球馆欢迎约球！
 
 <p align="center">
   <img src="./assets/paddle_blade.jpg" alt="乒乓球拍底板" width="20%">
