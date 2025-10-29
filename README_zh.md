@@ -14,20 +14,14 @@
   <img src="./assets/midpoint.jpg" alt="life's midpoint is 18" width="80%"> 
 </p>
 
-<div align="center" style="margin:auto; padding:8px 0;">
-  <p align="left" style="font-size:18px; font-weight:600; letter-spacing:1px; margin:4px 0;">
-    <span style="border-left:4px solid #888; padding-left:10px;">“在人生的对数坐标上，时间越走越挤。”</span>
-  </p>
-  <p align="right" style="font-size:18px; font-weight:600; letter-spacing:1px; margin:4px 0;">
-    <span style="border-right:4px solid #888; padding-right:10px;">“——于是，生命的意义不在延长时间，而在放大感受。”</span>
-  </p>
-</div>
+> **“在人生的对数坐标上，时间越走越挤。”**
+> <p align="right"><strong>“——于是，生命的意义不在延长时间，而在放大感受。”</strong></p>
 
 
 ---
 <p align="left">
-  <img src="./assets/photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:5%">
-  <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="78%" style="display:inline-block;">
+  <img src="./assets/photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:1%">
+  <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="83%" style="display:inline-block;">
 </p>
 
 ---

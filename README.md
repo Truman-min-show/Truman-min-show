@@ -14,20 +14,14 @@
   <img src="./assets/midpoint.jpg" alt="life's midpoint is 18" width="80%"> 
 </p>
 
-<div align="center" style="margin:auto; padding:8px 0;">
-  <p align="left" style="font-size:16px; font-weight:500;  margin:4px 0;">
-    <span style="border-left:4px solid #888; padding-left:10px;">“On the logarithmic axis of life, time grows ever denser as it moves on.”</span>
-  </p>
-  <p align="right" style="font-size:16px; font-weight:500;  margin:4px 0;">
-    <span style="border-right:4px solid #888; padding-right:10px;">“——Thus, the meaning of life lies not in stretching time, but in amplifying experience.”</span>
-  </p>
-</div>
+> **“On the logarithmic axis of life, time grows ever denser as it moves on.”**
+> <p align="right"><strong>“——Thus, the meaning of life lies not in stretching time, but in amplifying experience.”</strong></p>
 
 ---
 
 <p align="left">
-  <img src="./assets/photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:5%">
-  <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="78%" style="display:inline-block;">
+  <img src="./assets/photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:1%">
+  <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="83%" style="display:inline-block;">
 </p>
 
 ---
