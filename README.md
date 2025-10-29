@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Truman-min-show&color=DA70D6" alt="Profile Views" />
 </div>
 
----
+
 
 ## ✨ Hello, I'm [Truman-min-show] 👋
 
@@ -17,14 +17,14 @@
 > **“On the logarithmic axis of life, time grows ever denser as it moves on.”**
 > <p align="right"><strong>“——Thus, the meaning of life lies not in stretching time, but in amplifying experience.”</strong></p>
 
----
+
 
 <p align="left">
   <img src="./assets/photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:1%">
   <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="83%" style="display:inline-block;">
 </p>
 
----
+
 
 ## 🧑‍🎓 Education and Research Interests
 
@@ -38,7 +38,7 @@ Research interests include:
 
 - 🧠 Natural Language Processing (Rumor Detection)
 - 🧮 Rough Set and Granular Computing
----
+
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +60,7 @@ Languages and tools I'm familiar with or currently learning:
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square)
 
----
+
 
 
 ## 📈 GitHub Stats
@@ -70,7 +70,7 @@ Languages and tools I'm familiar with or currently learning:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact" alt="Top Languages" width="38%"> 
 </p>
 
----
+
 
 ## 🎮 Hobbies and Interests
 
@@ -101,15 +101,17 @@ Languages and tools I'm familiar with or currently learning:
   <img src="./assets/games.jpg" alt="Gaming Favorites" width="40%">
 </p>
 
----
+
 
 ## 🔗 External Links
 
-- [My Bilibili Profile](https://space.bilibili.com/481025134?spm_id_from=333.1007.0.0)
-- [My CSDN Blog](https://blog.csdn.net/Truman_min_show)
-- [My Steam Profile](https://steamcommunity.com/profiles/76561199494906644/)
+<p align="center">
+  <a href="https://space.bilibili.com/481025134?spm_id_from=333.1007.0.0">My Bilibili Profile</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+  <a href="https://blog.csdn.net/Truman_min_show">My CSDN Blog</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+  <a href="https://steamcommunity.com/profiles/76561199494906644/">My Steam Profile</a>
+</p>
 
----
+
 
 ## 🌅 In Memory of Richard Russell
 
@@ -122,13 +124,12 @@ Languages and tools I'm familiar with or currently learning:
 
 Richard Russell, a ground crew member, made headlines in 2018 when he took an unauthorized plane for a remarkable flight, performing stunts under the sunset before crashing on Ketron Island. His actions sparked deep reflections on ideals, freedom, and the meaning of life, earning him the nickname “Sky King” among netizens.
 
----
+
 
 ## Acknowledgement
 
 Part of this README template is adapted from my friend [Wangtk311](https://github.com/Wangtk311).  
 Special thanks for the inspiration and help.
 
----
 
 ## Thanks for visiting! If you’re interested in my hobbies, projects, or research directions, feel free to reach out.

@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Truman-min-show&color=9400D3" alt="Profile Views" />
 </div>
 
----
+
 
 ## ✨你好，我是 [楚门的小世界] 👋
 
@@ -18,13 +18,13 @@
 > <p align="right"><strong>“——于是，生命的意义不在延长时间，而在放大感受。”</strong></p>
 
 
----
+
 <p align="left">
   <img src="./assets/photo.jpg" alt="个人照片" width="15%" style="display:inline-block; margin-right:1%">
   <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="83%" style="display:inline-block;">
 </p>
 
----
+
 
 ## 🧑‍🎓 教育背景与研究方向
 
@@ -36,7 +36,7 @@
 
 - 🧠 自然语言处理（谣言检测）
 - 🧮 粗糙集和粒计算
----
+
 
 ## 🛠️ 技术栈
 
@@ -58,7 +58,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square)
 
----
+
 
 ## 📈 GitHub 统计
 
@@ -67,7 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact" alt="Top Languages" width="38%"> 
 </p>
 
----
+
 
 ## 🎮 兴趣爱好
 
@@ -98,15 +98,17 @@
   <img src="./assets/games.jpg" alt="游戏生涯爱好表" width="40%">
 </p>
 
----
+
 
 ## 🔗 外部链接
 
-- [我的 B 站主页](https://space.bilibili.com/481025134?spm_id_from=333.1007.0.0)
-- [我的 CSDN 博客](https://blog.csdn.net/Truman_min_show)
-- [我的 Steam 主页](https://steamcommunity.com/profiles/76561199494906644/)
+<p align="center">
+  <a href="https://space.bilibili.com/481025134?spm_id_from=333.1007.0.0">我的B站主页</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+  <a href="https://blog.csdn.net/Truman_min_show">我的CSDN博客</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+  <a href="https://steamcommunity.com/profiles/76561199494906644/">我的Steam主页</a>
+</p>
 
----
+
 
 ## 🌅 致敬理查德·罗素（Richard Russell）
 
@@ -119,12 +121,12 @@
 
 理查德·罗素（Richard Russell），一位地勤人员，在 2018 年驾驶一架未经授权的飞机在夕阳下完成了惊人的飞行动作，最终坠毁在 Ketron 岛。他的行为引发了人们对理想、自由和生命意义的深思，被网友称为“Sky King”。
 
----
+
 
 ## 致谢
 
 本 README 模板部分内容来源于我的同学 [Wangtk311](https://github.com/Wangtk311)，在此特别感谢。
 
----
+
 
 ## 感谢访问！如果您对我兴趣爱好以及一些项目或研究方向感兴趣，欢迎联系。
