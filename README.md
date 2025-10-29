@@ -66,8 +66,8 @@ Languages and tools I'm familiar with or currently learning:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Truman-min-show&show_icons=true" alt="My GitHub Stats" width="40%"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact" alt="Top Languages" width="30%"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Truman-min-show&show_icons=true" alt="My GitHub Stats" width="50%"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact" alt="Top Languages" width="38%"> 
 </p>
 
 ---
@@ -114,7 +114,7 @@ Languages and tools I'm familiar with or currently learning:
 ## 🌅 In Memory of Richard Russell
 
 > “I’m gonna try to do a barrel roll, and if that goes good, I’m just gonna nose down and call it a night.”  
-> — Richard Russell
+> <p align="right">—— Richard Russell</p>
 
 <p align="center">
   <img src="./assets/richard_russell_flight.jpg" alt="Richard Russell Sunset Flip" width="40%">

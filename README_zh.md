@@ -63,8 +63,8 @@
 ## 📈 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Truman-min-show&show_icons=true" alt="My GitHub Stats" width="40%"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact" alt="Top Languages" width="30%"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Truman-min-show&show_icons=true" alt="My GitHub Stats" width="50%"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact" alt="Top Languages" width="38%"> 
 </p>
 
 ---
@@ -73,7 +73,7 @@
 
 ### 📺 动漫
 
-- 热爱日本动漫，阅番量 **300+**，每季度定期追番 **3~5** 部，佛性补番
+- 喜欢看日漫，阅番量 **300+**，每季度定期追番 **3~5** 部，佛性补番
 <p align="center">
   <img src="./assets/anime.jpg" alt="动漫生涯爱好表" width="60%">
 </p>
@@ -111,7 +111,7 @@
 ## 🌅 致敬理查德·罗素（Richard Russell）
 
 > “我想尝试做一个桶滚，如果成功了，我就俯冲下去，结束这一天。”  
-> —— Richard Russell
+> <p align="right">—— Richard Russell</p>
 
 <p align="center">
   <img src="./assets/richard_russell_flight.jpg" alt="Richard Russell Sunset Flip" width="40%">
@@ -127,4 +127,4 @@
 
 ---
 
-## 感谢您的访问！如果您对我兴趣爱好以及一些项目或研究方向感兴趣，欢迎联系我。
+## 感谢访问！如果您对我兴趣爱好以及一些项目或研究方向感兴趣，欢迎联系。
