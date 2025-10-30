@@ -24,13 +24,13 @@
   <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="83%" style="display:inline-block;">
 </p>
 
-
+---
 
 ## 🧑‍🎓 Education and Research Interests
 
 🎓 Undergraduate in Computer Science and Technology at Tongji University
 
-(Incoming PhD student——direct admission from undergraduate studies)
+- Incoming PhD student——direct admission from undergraduate studies
 
 ✍ You can often find me in the afternoons or evenings during non-holiday weeks at Room A210 or A208 in Jiading Campus, or at a window seat on the 4th or 8th floor of Library.
 
@@ -70,7 +70,7 @@ Languages and tools I'm familiar with or currently learning:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact" alt="Top Languages" width="38%"> 
 </p>
 
-
+---
 
 ## 🎮 Hobbies and Interests
 
@@ -111,7 +111,7 @@ Languages and tools I'm familiar with or currently learning:
   <a href="https://steamcommunity.com/profiles/76561199494906644/">My Steam Profile</a>
 </p>
 
-
+---
 
 ## 🌅 In Memory of Richard Russell
 
@@ -124,7 +124,7 @@ Languages and tools I'm familiar with or currently learning:
 
 Richard Russell, a ground crew member, made headlines in 2018 when he took an unauthorized plane for a remarkable flight, performing stunts under the sunset before crashing on Ketron Island. His actions sparked deep reflections on ideals, freedom, and the meaning of life, earning him the nickname “Sky King” among netizens.
 
-
+---
 
 ## Acknowledgement
 

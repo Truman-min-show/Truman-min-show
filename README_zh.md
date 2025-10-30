@@ -24,19 +24,18 @@
   <img src="https://raw.githubusercontent.com/Truman-min-show/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="GitHub贡献贪吃蛇" width="83%" style="display:inline-block;">
 </p>
 
-
+---
 
 ## 🧑‍🎓 教育背景与研究方向
 
-🎓 同济大学计算机科学与技术专业本科生(博0ing)
+🎓 同济大学计算机科学与技术专业本科生 (博 0 ing)
 
 ✍ 你可以经常在非黄金周的下午和晚上于嘉定校区的A210教室或A208教室以及嘉定图书馆4楼或8楼靠窗座位处发现我
 
- 研究方向包括：
+研究方向包括：
 
 - 🧠 自然语言处理（谣言检测）
 - 🧮 粗糙集和粒计算
-
 
 ## 🛠️ 技术栈
 
@@ -67,7 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact" alt="Top Languages" width="38%"> 
 </p>
 
-
+---
 
 ## 🎮 兴趣爱好
 
@@ -108,7 +107,7 @@
   <a href="https://steamcommunity.com/profiles/76561199494906644/">我的Steam主页</a>
 </p>
 
-
+---
 
 ## 🌅 致敬理查德·罗素（Richard Russell）
 
@@ -121,7 +120,7 @@
 
 理查德·罗素（Richard Russell），一位地勤人员，在 2018 年驾驶一架未经授权的飞机在夕阳下完成了惊人的飞行动作，最终坠毁在 Ketron 岛。他的行为引发了人们对理想、自由和生命意义的深思，被网友称为“Sky King”。
 
-
+---
 
 ## 致谢
 
