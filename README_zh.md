@@ -62,8 +62,8 @@
 ## 📈 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Truman-min-show&show_icons=true" alt="My GitHub Stats" width="50%"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact" alt="Top Languages" width="38%"> 
+  <img src="https://github-readme-stats-sigma-puce-37.vercel.app/api?username=Truman-min-show&show_icons=true" alt="My GitHub Stats" width="50%"> 
+  <img src="https://github-readme-stats-sigma-puce-37.vercel.app/api/top-langs/?username=Truman-min-show&layout=compact" alt="Top Languages" width="38%"> 
 </p>
 
 ---
