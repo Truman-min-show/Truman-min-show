@@ -28,26 +28,35 @@
 
 ## 🧑‍🎓 Education and Research Interests
 
-🎓 Undergraduate in Computer Science and Technology at Tongji University
+🎓 Direct-entry PhD student at the College of Computer Science and Technology, Tongji University
 
-- Incoming PhD student——direct admission from undergraduate studies
-
-✍ You can often find me in the afternoons or evenings during non-holiday weeks at Room A210 or A208 in Jiading Campus, or at a window seat on the 4th or 8th floor of Library.
+✍ You can often find me in the afternoons or evenings during non-holiday weeks at Room A210 or A208, Room 501 in the Telecom Building, or a window seat on the 4th or 8th floor of the Jiading Campus Library.
 
 Research interests include:
 
-- 🧠 Natural Language Processing (Rumor Detection)
+- 🤖 Multi-Agent Collaboration, Debate, and Decision-Making (Rumor Detection)
+- 🧰 Agent Engineering and Harness Engineering
 - 🧮 Rough Set and Granular Computing
 
 
 ## 🛠️ Tech Stack
 
-Languages and tools I'm familiar with or currently learning:
+<h3 align="center">⌨️ Traditional Coding</h3>
+
+<div align="center">
 
 ![C](https://img.shields.io/badge/-C-808080?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-904090?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square)
+![Verilog](https://img.shields.io/badge/-Verilog-5C2D91?style=flat-square)
+
+</div>
+
+<h3 align="center">🧱 Frameworks and Tools</h3>
+
+<div align="center">
+
 ![Vue](https://img.shields.io/badge/-Vue-409040?style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square)
@@ -59,6 +68,24 @@ Languages and tools I'm familiar with or currently learning:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square)
+
+</div>
+
+<h3 align="center">🧭 Automated Research and Vibe Coding Workflow</h3>
+
+<div align="center">
+
+![Codex](https://img.shields.io/badge/-Codex-111111?style=flat-square)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square)
+![Manus](https://img.shields.io/badge/-Manus-4A5568?style=flat-square)
+![cc-switch](https://img.shields.io/badge/-cc--switch-2F855A?style=flat-square)
+![Antigravity](https://img.shields.io/badge/-Antigravity-6B46C1?style=flat-square)
+![pi-agent](https://img.shields.io/badge/-pi--agent-2B6CB0?style=flat-square)
+![MCP](https://img.shields.io/badge/-MCP-CC2936?style=flat-square)
+![Skills](https://img.shields.io/badge/-Skills-805AD5?style=flat-square)
+![Subagents](https://img.shields.io/badge/-Subagents-B7791F?style=flat-square)
+
+</div>
 
 
 
@@ -83,19 +110,20 @@ Languages and tools I'm familiar with or currently learning:
 
 ### ⚽ Sports
 
-- Night owl soccer fan, supporting **Barcelona** and **Argentina** (Messi is forever the GOAT).
-- Table tennis enthusiast (skill level around **1450~1550** on Kaiqiuwang), playing with the right hand, using inverted rubber on both sides of the paddle, primarily focusing on a backhand system, using a VISCARIA-FL blade, 40-degree 2.1 provincial orange rubber Hurricane for forehand, and Dignics-64 for backhand. I focus on backhand quick attacks and the first three shots. Feel free to challenge me at the Jiading Campus table tennis hall on Tuesday/Friday/Weekend afternoons at 3:30  PM or 7:00 PM!
+- Night owl soccer fan, supporting **Barcelona**, **Spain**, and **Argentina** (Messi is forever the GOAT).
+- Table tennis enthusiast (around **1500–1550** on Kaiqiuwang), playing right-handed with inverted rubber on both sides. My setup is a VISCARIA-FL blade, 39-degree 2.1 provincial orange-sponge Hurricane on the forehand, and Butterfly Dignics 09C on the backhand. My game revolves around backhand banana flicks and mid-to-long-distance rallies. Feel free to challenge me at the Jiading Campus table tennis hall on Tuesday, Friday, or weekend afternoons at 3:30 PM or 7:00 PM!
 
 <p align="center">
-  <img src="./assets/paddle_blade.jpg" alt="Table Tennis Blade" width="20%">
-  <img src="./assets/rubber.jpg" alt="Table Tennis Rubber" width="34%">
-  <img src="./assets/barca_logo.jpg" alt="FC Barcelona Logo" width="26%">
+  <img src="./assets/paddle_blade.jpg" alt="VISCARIA-FL Blade" width="22%">
+  <img src="./assets/Hurricane-white.png" alt="Hurricane Forehand Rubber" width="22%">
+  <img src="./assets/D09C.jpg" alt="Butterfly Dignics 09C" width="22%">
+  <img src="./assets/barca_logo.jpg" alt="FC Barcelona Logo" width="22%">
 </p>
 
 
 ### 🎮 Gaming
 
-- Enjoy a variety of games including FPS (Battlefield series, CrossFire), Souls-like (Elden Ring, Sekiro), sports/racing (FIFA series, Steep, Forza Horizon), open-world (Cyberpunk 2077, Red Dead Redemption 2), war strategy (Hearts of Iron IV), RPG (Resident Evil 4 Remake, The Witcher 3), and hack-and-slash (Dynasty Warriors series).
+- **RPGs are my favorite genre**, especially **Cyberpunk 2077**, **Persona 5 Royal**, **The Witcher 3**, and **Resident Evil 4**. I also enjoy Souls-like games such as **Elden Ring** and **Sekiro**, story-rich open worlds such as **Red Dead Redemption 2**, the **Battlefield** series, football and racing games, co-op adventures, and the occasional quiet journey such as **Death Stranding**.
 
 <p align="center">
   <img src="./assets/games.jpg" alt="Gaming Favorites" width="40%">
